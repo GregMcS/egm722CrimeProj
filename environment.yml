@@ -1,4 +1,4 @@
-name: egm722project
+name: egm722soil
 channels:
   - conda-forge
   - defaults
@@ -8,4 +8,5 @@ dependencies:
   - geopandas
   - pandas
   - numpy
+  - cartopy
 prefix: C:\Users\gregm\anaconda3\envs\egm722project
